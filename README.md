@@ -16,4 +16,4 @@ https://nateguana.github.io/frontier_finished2/word_fold3/game.html
 https://nateguana.github.io/frontier_finished2/shaders/index.html
 
 ## Click Game
-https://nateguana.github.io/frontier_finished2/chickgame/index.html
+https://nateguana.github.io/frontier_finished2/clickgame/index.html
