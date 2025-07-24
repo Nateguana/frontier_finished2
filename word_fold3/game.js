@@ -28,9 +28,9 @@ const BOARDS = [
     },
 ]
 
-const THUNDER = new Audio("../assets/thunder.mp3")
-const RAIN = new Audio("../assets/rain.mp3")
-const JUMPSCARE = new Audio("../assets/jumpscare.mp3")
+const THUNDER = new Audio("thunder.mp3")
+const RAIN = new Audio("rain.mp3")
+const JUMPSCARE = new Audio("jumpscare.mp3")
 
 
 function try_play_rain() {
